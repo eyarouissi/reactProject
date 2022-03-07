@@ -1,0 +1,76 @@
+[
+    {
+      "_id": 1,
+      "name": "Ali Othman",
+      "jobTitle": "Full Stack Developer at Fruitful Day",
+      "address": "Ajman, UAE",
+      "experience1": "3 years of experience",
+      "experience2": "Graduated from Istanbul Technical University - 2019",
+      "experience3": "Monthly Salary: 8k-11k",
+      "education": "",
+      "technicalScore": 55,
+      "behaviorScore": 65,
+      "cognitiveScore": 70,
+      "cvScore": 45,
+      "fitness": "Future Potential",
+      "select": "",
+      "photo":
+        "https://media.istockphoto.com/photos/portrait-of-businessman-in-eyeglasses-at-office-picture-id486547166?k=20&m=486547166&s=612x612&w=0&h=DJs0pL6VakEJc1zEN6xu7LqJz44Q8SlbLmN5TJT66m4="
+    },
+    {
+      "_id": 2,
+      "name": "Najla Soulayman",
+      "jobTitle": "Senior Full Stack Developer Al-Futtaim",
+      "address": "Riyadh, Saudi Arabia",
+      "experience1": "5 years of experience",
+      "experience2": "Graduated from King Fahd University- 2017",
+      "experience3": "Monthly Salary: 10k-20k",
+      "education": "",
+      "technicalScore": 77,
+      "behaviorScore": 65,
+      "cognitiveScore": 71,
+      "cvScore": 66,
+      "fitness": "Fit for the Role",
+      "select": "",
+      "photo":
+        "https://media.istockphoto.com/photos/having-confidence-improves-your-chances-of-gaining-great-success-picture-id1169326841?k=20&m=1169326841&s=612x612&w=0&h=LeMC9heqeqX78l_T1En6_2CdU_erryD3uT3DRCQlCdA="
+    },
+    {
+      "_id": 3,
+      "name": "Nacer Ben Mohammed",
+      "jobTitle": "Software engineer at Futira",
+      "address": "Abu Dhabi, UAE",
+      "experience1": "4 years of experience",
+      "experience2": "Graduated from University of Sharjah - 2016",
+      "experience3": "Monthly Salary: 9k-15k",
+      "education": "",
+      "technicalScore": 55,
+      "behaviorScore": 65,
+      "cognitiveScore": 70,
+      "cvScore": 62,
+      "fitness": "Future Potential",
+      "select": "",
+      "photo":
+        "https://media.istockphoto.com/photos/positive-businessman-picture-id514366990?k=20&m=514366990&s=612x612&w=0&h=oUD_Ih9y3PdIG4C7DWVvjWYrEXdidQCtDh0u_9isBpk="
+    },
+
+    {
+      "_id": 5,
+      "name": "Mariyam Ben Khaled",
+      "jobTitle": "Senior Full Stack Developer at RiseTheck",
+      "address": "Dubai, UAE",
+      "experience1": "7 years of experience",
+      "experience2": "Graduated from American University of Beirut - 2008",
+      "experience3": "Monthly Salary: 20k-30k",
+      "education": "",
+      "technicalScore": 115,
+      "behaviorScore": 85,
+      "cognitiveScore": 75,
+      "cvScore": 79,
+      "fitness": "Over Qualified",
+      "select": "",
+      "photo":
+        "https://media.istockphoto.com/photos/serious-mature-woman-sitting-on-sofa-and-looking-away-as-if-listening-picture-id1307625767?k=20&m=1307625767&s=612x612&w=0&h=9IvmXOkfhutwyRxNa_HehRWaptEKgMHFGzajhgknUhc="
+    }
+  ]
+  

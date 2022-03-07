@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply cursor-pointer rounded-full py-2 px-3 text-xs font-bold uppercase tracking-wider;
+}
+.label {
+  @apply mb-2 block text-base text-gray-600 dark:text-gray-400;
+}
+.field {
+  @apply my-2 w-full   border-2 border-blue-400 px-3 py-2 placeholder-gray-300 focus:border-indigo-300 focus:outline-none focus:ring focus:ring-indigo-100;
+}
+.fieldlogin {
+  @apply my-2 w-full rounded-md border border-gray-300 px-3 py-2 placeholder-gray-300 focus:border-indigo-300 focus:outline-none focus:ring focus:ring-indigo-100;
+}
+.button {
+  @apply mt-8 w-4/5 cursor-pointer rounded-full bg-blue-400 px-4 py-2 text-white focus:bg-indigo-600 focus:outline-none;
+}
+.errorMsg {
+  @apply text-base  text-red-500;
+}
+.invalid {
+  @apply my-2 w-full  border border-red-500 px-3 py-2 placeholder-gray-300 focus:border-indigo-300 focus:outline-none focus:ring focus:ring-indigo-100;
+}
+.Firstoption {
+  @apply my-2 w-full  border-2  border-blue-400 px-3 py-2 text-gray-200 placeholder-gray-300 focus:border-indigo-300 focus:outline-none focus:ring focus:ring-indigo-100;
+}
