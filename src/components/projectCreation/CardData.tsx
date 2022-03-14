@@ -5,7 +5,6 @@ import {BsFillPencilFill} from 'react-icons/bs'
 export default function CardStats({
   statSubtitle,
   statTitle,
-  statArrow,
   statPercent,
   statPercentColor,
   statDescripiron,
